@@ -1,0 +1,6 @@
+Word count for IF-1.txt: 301
+Word count for AlwaysRememberUsThisWay-1.txt: 239
+Grand total of words: 540
+Top 3 words in IF-1.txt: [('you', 20), ('and', 20), ('if', 14)]
+Top 3 words in AlwaysRememberUsThisWay-1.txt: [('i', 15), ('the', 13), ('and', 8)]
+Machine IP Address for Yaswanth Gangula M16552731: 192.168.4.74
