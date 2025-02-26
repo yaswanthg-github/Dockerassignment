@@ -1,0 +1,11 @@
+version: '3'
+services:
+  my-container:
+    image: my_docker_assign  # Replace with the name of your Docker image
+    deploy:
+      replicas: 2  # Deploy two replicas
+      restart_policy:
+        condition: on-failure
+    ports:
+      - "8080:80"  # Expose container port 80 to host port 8080
+ 
